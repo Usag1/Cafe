@@ -363,3 +363,9 @@ aside p {
     object-fit: cover;
 }
 
+/* CONTACT
+------------------------------ */
+#contact {
+    background-image: url(../images/);
+    min-height: 100vh;
+}
